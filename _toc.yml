@@ -1,0 +1,97 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Courses
+    chapters:
+      - file: Course_Readme
+      - file: PatternRecognition/PR_README
+      
+        
+        
+        
+        
+        
+        
+        # sections:
+        #   - file: PatternRecognition/Introduction/Introduction_1.ipynb
+        #   - file: PatternRecognition/Visualization/Visualization_1.ipynb
+         
+           
+
+# parts:
+# - caption: Courses
+#   maxdepth: 9
+#   chapters:
+#   - file: Course_Readme
+#     sections :
+#     - file: PatternRecognition/PR_README
+#       sections:
+#       - file: PatternRecognition/Introduction/Introduction_1.ipynb
+#         sections :
+#         - file : PatternRecognition/Introduction/DataSet_1
+
+
+# format: jb-book
+# root: intro
+# parts:
+# - caption: Courses
+#   chapters:
+#   - file: Course_Readme
+#     sections :
+#     - file: PatternRecognition/PR_README
+#       sections:
+#       - file: PatternRecognition/Introduction/Introduction_1.ipynb
+#         sections :
+#         - file : PatternRecognition/Introduction/DataSet_1
+
+
+
+
+# - caption: Students' Laboratory
+#   numbered: false
+#   # chapters:
+#   # - file: PatternRecognition/PR_README
+
+# format: jb-book
+# root: intro
+# options:
+#   numbered: True
+# chapters: Course_Readme
+# - file: 
+# parts:
+#   - caption: PR_README #Foundations
+#     numbered: True
+#     chapters:
+#     - file: PatternRecognition/Introduction/Introduction_1
+#        sections:
+#        - file: PatternRecognition/Introduction/DataSet_1
+  #     - file: e_and_m/J-140_Maxwell_3_S2
+  #     - file: e_and_m/J-140_Maxwell_3_S3
+  #     - file: e_and_m/J-140_Maxwell_3_S9
+  #     - file: e_and_m/J-140_Maxwell_3_S11
+
+  # - caption: Relativity
+  #   numbered: True
+  #   chapters:
+  #   - file: relativity/Special Relativity_1_1_VSC
+  #   - file: relativity/Special Relativity_2_1
+  #   - file: relativity/Special Relativity_3_1
+  #   - file: relativity/Special Relativity_4_1
+
+
+
+# format: jb-book
+# root: intro
+# chapters:
+#   - file: Course_Readme
+#     sections : 
+#        - file : PatternRecognition/PR_README
+#          sections : 
+#             - file : PatternRecognition/Introduction/Introduction_1
+#               sections :
+#                  - file : PatternRecognition/Introduction/DataSet_1
+      
+      #    - file : Introduction/Introduction_README
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
